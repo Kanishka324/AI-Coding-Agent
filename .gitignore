@@ -1,0 +1,28 @@
+# Environment variables
+.env
+
+# Python virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE settings
+.vscode/
+
+# Logs
+*.log
+
+# Compiled binaries
+*.exe
+*.o
+*.obj
+
+# Test and build artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+build/
+dist/
